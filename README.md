@@ -1,4 +1,4 @@
 # DataPyRate
 DataPyRate commerce database software
 
-Copyright (c) PyRate Company. Todos os direitos reservados.
+Copyright (c) PyRate Company. All rights reserved.
